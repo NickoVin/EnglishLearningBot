@@ -1,0 +1,376 @@
+{
+    "theme1": {
+        "name": "Хэллоуин",
+        "description": "Каждый год 31 октября отмечают праздник «Хэллоуин» - день всех святых. Именно в этот день все люди наряжаются в страшные костюмы и выходят на улицы. Этот праздник символизирует начало зимы и приход злой, нечистой силы.",
+        "dictionary": [
+                        { "word": "halloween",
+                          "translate": "Хэллоуин",
+                          "example": "Halloween is celebrated all over the world."
+                        },
+                        { "word": "pumpkin",
+                          "translate": "тыква",
+                          "example": "Pumpkin is the main symbol of Halloween."
+                        },
+                        { "word": "ghost",
+                          "translate": "привидение",
+                          "example": "I saw a ghost in this house."
+                        },
+                        { "word": "town outskirts",
+                          "translate": "окраина города",
+                          "example": "We ll go to the town outskirts."
+                        },
+                        { "word": "witch",
+                          "translate": "ведьма",
+                          "example": "The wicked witch brewed a decoction."
+                        },
+                        { "word": "monster",
+                          "translate": "монстр",
+                          "example": "I saw a monster last night."
+                        },
+                        { "word": "vampire",
+                          "translate": "вампир",
+                          "example": "A vampire was dressed in black cloak."
+                        },
+                        { "word": "bat",
+                          "translate": "летучая мышь",
+                          "example": "A vampire was dressed in black cloak."
+                        },
+                        { "word": "spider",
+                          "translate": "паук",
+                          "example": "The spider was crawling right up the wall."
+                        },
+                        { "word": "mummy",
+                          "translate": "мумия",
+                          "example": "When I saw the mummy, I was scared."
+                        },
+                        { "word": "skeleton",
+                          "translate": "скелет",
+                          "example": "The skeleton hid in the closet."
+                        },
+                        { "word": "haunted house",
+                          "translate": "дом с приведениями",
+                          "example": "The attraction was called Haunted house."
+                        },
+                        { "word": "candle",
+                          "translate": "свеча",
+                          "example": "Suddenly the candle caught fire."
+                        },
+                        { "word": "candy",
+                          "translate": "конфета",
+                          "example": "Candy is delicious."
+                        },
+                        { "word": "death",
+                          "translate": "смерть",
+                          "example": "Death will come for him."
+                        },
+                        { "word": "bonfire",
+                          "translate": "костёр",
+                          "example": "In the forest have burned a bonfire."
+                        },
+                        { "word": "prank",
+                          "translate": "шалость",
+                          "example": "This prank was inappropriate."
+                        },
+                        { "word": "costume",
+                          "translate": "костюм",
+                          "example": "What costume to wear for Halloween?"
+                        }
+                      ]
+    },
+    "theme2": {
+        "name": "Путешествие",
+        "description": "Путешествия - важная часть нашей жизни. Без путешествий жизнь становится скучной и однообразной, человеку время от времени необходима смена обстановки и поиск чего-то нового.",
+        "dictionary": [
+                        { "word": "travel",
+                          "translate": "путешествие",
+                          "example": "We invite you to travel to America."
+                        },
+                        { "word": "traveler",
+                          "translate": "путешественник",
+                          "example": "Are you traveler?"
+                        },
+                        { "word": "bus",
+                          "translate": "автобус",
+                          "example": "The bus will be here in 30 minutes."
+                        },
+                        { "word": "car",
+                          "translate": "машина",
+                          "example": "I will rent a car."
+                        },
+                        { "word": "scooter",
+                          "translate": "скутер",
+                          "example": "In Bali everyone rides scooters."
+                        },
+                        { "word": "plane",
+                          "translate": "самолёт",
+                          "example": "I bought a plane ticket."
+                        },
+                        { "word": "sihp",
+                          "translate": "корабль",
+                          "example": "Shall we sail the ship?"
+                        },
+                        { "word": "train",
+                          "translate": "поезд",
+                          "example": "The train leaves at 7 am."
+                        },
+                        { "word": "bicycle",
+                          "translate": "велосипед",
+                          "example": "Here the bike is considered to be the most convenient way of movement."
+                        },
+                        { "word": "petrol",
+                          "translate": "бензин",
+                          "example": "I need five liters of petrol."
+                        },
+                        { "word": "airport",
+                          "translate": "аэропорт",
+                          "example": "Where is the airport?"
+                        },
+                        { "word": "ticket",
+                          "translate": "билет",
+                          "example": "Ticket to new York please."
+                        },
+                        { "word": "baggage",
+                          "translate": "багаж",
+                          "example": "Get your baggage!"
+                        },
+                        { "word": "visa",
+                          "translate": "виза",
+                          "example": "You need to apply for a visa in the next window."
+                        },
+                        { "word": "resort",
+                          "translate": "курорт",
+                          "example": "This is the best resort I ve ever seen."
+                        },
+                        { "word": "currency",
+                          "translate": "валюта",
+                          "example": "What is the national currency in this country?"
+                        },
+                        { "word": "guest house",
+                          "translate": "гостевой дом",
+                          "example": "He has an apartment in our guest house."
+                        },
+                        { "word": "showplace",
+                          "translate": "достопремичательность",
+                          "example": "This is the most popular showplace."
+                        }
+                      ]
+    },
+     "theme3": {
+        "name": "Mix",
+        "description": "Группа слов, относящихся к разным темам.",
+        "dictionary": [
+                        { "word": "emerge",
+                          "translate": "появляться",
+                          "example": "A boy emerges from the cabinet"
+                        },
+                        { "word": "clutch",
+                          "translate": "схватить",
+                          "example": "Sara clutching her skirt"
+                        },
+                        { "word": "rebelliousness",
+                          "translate": "непокорность",
+                          "example": "It was a sign of rebelliousness, of being a free spirit, a non-conformist."
+                        },
+                        { "word": "lithe",
+                          "translate": "гибкий",
+                          "example": "He is described as a stalwart man of fierce mien, lithe and supple as a beast."
+                        },
+                        { "word": "despite",
+                          "translate": "несмотря",
+                          "example": "But despite our verbal assurances, they wanted some proof."
+                        },
+                        { "word": "rattle",
+                          "translate": "треск",
+                          "example": "I hear the fence rattle nearby."
+                        },
+                        { "word": "stare",
+                          "translate": "уставиться",
+                          "example": "And I want you to stare at that dot."
+                        },
+                        { "word": "glance",
+                          "translate": "мелькнуть",
+                          "example": "He glances around"
+                        },
+                        { "word": "aloft",
+                          "translate": "Нверху",
+                          "example": "These changes aloft force changes below in the troposphere."
+                        },
+                        { "word": "unkempt",
+                          "translate": "небрежный",
+                          "example": "The grass around the runway became unkempt after a while and it often resembled a wheat field."
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        },
+                        { "word": "",
+                          "translate": "",
+                          "example": ""
+                        }
+                      ]
+    }
+}
